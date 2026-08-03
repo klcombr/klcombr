@@ -4,7 +4,7 @@
   <em>código que vira <b style="color:#e8637a">sistema</b>.</em>
 </p>
 
-<div align="center">
+<div align="left">
   <pre>
 ┌────────────────────┐   kyxen@github
 │  ● ● ●             │   ──────────────────────────────────
