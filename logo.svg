@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" font-family="'JetBrains Mono', 'Cascadia Mono', Consolas, monospace">
+  <rect width="240" height="240" rx="40" fill="#0a0a0b" stroke="#1a1a1e"/>
+  <circle cx="60" cy="52" r="7" fill="#2a2a2e"/>
+  <circle cx="82" cy="52" r="7" fill="#e8637a"/>
+  <circle cx="104" cy="52" r="7" fill="#e8637a" opacity="0.45"/>
+  <text x="120" y="140" text-anchor="middle" fill="#d4d4d8" font-size="64">
+    <tspan>kl</tspan><tspan fill="#e8637a">_</tspan>
+  </text>
+</svg>

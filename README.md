@@ -1,6 +1,10 @@
 <!-- kyxen · perfil -->
 
 <p align="center">
+  <img src="banner.svg" width="820px" />
+</p>
+
+<p align="center">
   <em>código que vira <b style="color:#e8637a">sistema</b>.</em>
 </p>
 
