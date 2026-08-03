@@ -1,10 +1,6 @@
 <!-- kyxen · perfil -->
 
 <p align="center">
-  <img src="banner.png" width="820px" />
-</p>
-
-<p align="center">
   <em>código que vira <b style="color:#e8637a">sistema</b>.</em>
 </p>
 
@@ -24,7 +20,7 @@
 
 ## quem sou
 
-Sou o **Kauê** (a.k.a. **kyxen**), desenvolvedor de **Santos/SP**. Python é a
+Sou o **Kauê** (a.k.a. **kyxen**), desenvolvedor de **Praia Grande/SP**. Python é a
 minha linguagem principal, mas também escrevo TypeScript e JavaScript quando a
 ocasião pede. Uso **Linux** no dia a dia e acredito que a linha de comando é o
 jeito mais honesto de conversar com uma máquina.
