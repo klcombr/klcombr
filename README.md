@@ -28,4 +28,4 @@ python · typescript · javascript · linux · html · css · git · sqlite
 
 ## contato
 
-[portfólio](https://klcom.netlify.app/) · [email](mailto:kyxenpi@proton.me) · [github](https://github.com/klcombr) · [linkedin](https://linkedin.com/in/kauê-leandro-farias-monteiro)
+[portfólio](https://klcom.netlify.app/) · [email](mailto:kyxenpi@proton.me) · [github](https://github.com/klcombr) · [linkedin](https://linkedin.com/in/kau%C3%AA-leandro-farias-monteiro)
