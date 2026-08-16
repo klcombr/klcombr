@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="260" viewBox="0 0 420 260" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <style>
+    .win { fill: none; stroke: #d4d4d8; }
+    .dot { fill: #d4d4d8; }
+    .prompt { fill: #18181b; }
+    .line { fill: #18181b; }
+    .dim { fill: #a1a1aa; }
+    @media (prefers-color-scheme: dark) {
+      .win { stroke: #3f3f46; }
+      .dot { fill: #3f3f46; }
+      .prompt { fill: #fafafa; }
+      .line { fill: #fafafa; }
+      .dim { fill: #71717a; }
+    }
+    @keyframes blink { 0%, 49% { opacity: 1 } 50%, 100% { opacity: 0 } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+  </style>
+
+  <rect x="10" y="10" width="400" height="240" rx="14" class="win" stroke-width="2" />
+  <circle cx="38" cy="36" r="5" class="dot" />
+  <circle cx="58" cy="36" r="5" class="dot" />
+  <circle cx="78" cy="36" r="5" class="dot" />
+
+  <text x="40" y="92" class="prompt" font-size="22" font-weight="700">
+    <tspan>python</tspan><tspan fill="#52525b" class="dim"> main.py</tspan>
+    <animate attributeName="opacity" values="0;1" keyTimes="0;0.3" dur="0.8s" begin="0.4s" fill="freeze" />
+  </text>
+
+  <g>
+    <animate attributeName="opacity" values="0;1" keyTimes="0;0.3" dur="0.6s" begin="1.6s" fill="freeze" />
+    <text x="40" y="136" class="line" font-size="20">
+      <tspan class="prompt">&#9654;</tspan><tspan class="dim"> automação</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; ok</tspan>
+    </text>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0;1" keyTimes="0;0.3" dur="0.6s" begin="2.4s" fill="freeze" />
+    <text x="40" y="172" class="line" font-size="20">
+      <tspan class="prompt">&#9654;</tspan><tspan class="dim"> backend</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; ok</tspan>
+    </text>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0;1" keyTimes="0;0.3" dur="0.6s" begin="3.2s" fill="freeze" />
+    <text x="40" y="208" class="line" font-size="20">
+      <tspan class="prompt">&#9654;</tspan><tspan class="dim"> eficiência</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; ok</tspan>
+    </text>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0;1" keyTimes="0;0.3" dur="0.6s" begin="4s" fill="freeze" />
+    <text x="40" y="244" class="line" font-size="20">
+      <tspan class="dim">concluído em 0.84s</tspan>
+    </text>
+  </g>
+
+  <rect class="cursor prompt" x="248" y="222" width="12" height="24" rx="2" />
+</svg>
