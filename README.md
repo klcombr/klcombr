@@ -3,13 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://widgets.vendicated.dev/user?id=1545557129283510273&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=true&badges=false&guess-nitro=false&background-color=%23000000&foreground-color=%23fff">
-    <img
-      src="https://widgets.vendicated.dev/user?id=1545557129283510273&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=true&badges=false&guess-nitro=false&background-color=%23000000&foreground-color=%23fff"
-      width="340"
-      alt="Discord profile"
-    />
-  </a>
+  <img
+    src="profile.png"
+    width="340"
+    alt="Discord profile"
+  />
 </p>
 
 <p align="center">
