@@ -19,5 +19,8 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,fastapi,react,nextjs,tailwind,postgresql,docker,linux,git" height="42" />
+  <img
+    src="https://skillicons.dev/icons?i=python,javascript,html,css,fastapi,react,nextjs,tailwind,postgresql,docker,linux,git"
+    height="42"
+  />
 </p>
