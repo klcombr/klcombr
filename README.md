@@ -6,12 +6,12 @@
 
 <div align="center">
 
-<img width="90" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0A0A0A&text=KL&fontColor=F2F2F2&fontSize=64&fontAlignY=64&desc=Kau%C3%AA%20Leandro&descSize=11&descAlignY=88&descColor=FF3333&stroke=262626&strokeWidth=1" alt="Kl" />
-
-<h1 style="font-size:1.6rem; margin:0.4rem 0 0.1rem; font-weight:600; letter-spacing:-0.02em;">
-  Kauê Leandro
-</h1>
-
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=180&color=08080A&text=KL&fontColor=F2F2F2&fontSize=100&fontAlign=50&fontAlignY=43&desc=KAU%C3%8A%20LEANDRO&descSize=13&descAlign=50&descAlignY=75&descColor=FF3333&stroke=262626&strokeWidth=1"
+  width="100%"
+  alt="KL — Kauê Leandro"
+/>
+---
 <p style="margin:0; color:#999; font-size:0.9rem;">
   Full-stack Developer · Python · TypeScript · AI
 </p>
